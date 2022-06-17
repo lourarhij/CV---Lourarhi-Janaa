@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0DB56562285D1FF6002A0CAD /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		0DB56563285D20DF002A0CAD /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0DB5655A285D1E6E002A0CAD = {
+			isa = PBXGroup;
+			children = (
+				0DB56562285D1FF6002A0CAD /* index.html */,
+				0DB56563285D20DF002A0CAD /* style.css */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0DB5655B285D1E6E002A0CAD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1320;
+			};
+			buildConfigurationList = 0DB5655E285D1E6E002A0CAD /* Build configuration list for PBXProject "CV - Lourarhi Janaa" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0DB5655A285D1E6E002A0CAD;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0DB5655F285D1E6E002A0CAD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0DB56560285D1E6E002A0CAD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0DB5655E285D1E6E002A0CAD /* Build configuration list for PBXProject "CV - Lourarhi Janaa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0DB5655F285D1E6E002A0CAD /* Debug */,
+				0DB56560285D1E6E002A0CAD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0DB5655B285D1E6E002A0CAD /* Project object */;
+}
